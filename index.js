@@ -24,3 +24,4 @@ else if (answer.operator === "division") {
     console.log(answer.firstnumber / answer.secondnumber);
 }
 ;
+console.log("hello world");
